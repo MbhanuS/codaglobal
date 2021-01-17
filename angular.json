@@ -52,6 +52,7 @@
               "src/assets"
             ],
             "styles": [
+              "./node_modules/@angular/material/prebuilt-themes/indigo-pink.css",
               "src/styles.css"
             ],
             "scripts": []
@@ -115,6 +116,7 @@
               "src/assets"
             ],
             "styles": [
+              "./node_modules/@angular/material/prebuilt-themes/indigo-pink.css",
               "src/styles.css"
             ],
             "scripts": []
@@ -148,5 +150,8 @@
       }
     }
   },
-  "defaultProject": "CodaGlobal"
+  "defaultProject": "CodaGlobal",
+  "cli": {
+    "analytics": "eea574a2-ab1b-4391-97d4-cfdd090b0bd5"
+  }
 }
